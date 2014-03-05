@@ -19,6 +19,7 @@ class StatusesController < ApplicationController
 
   # GET /statuses/1/edit
   def edit
+    puts "Editing is super fun"
   end
 
   # POST /statuses
